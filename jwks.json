@@ -5,8 +5,7 @@
       "n": "zhwkgF6EvIR8b0QhOpmS5LVOcxS_EfJ0ZL90mpiHLFQcFAnobsGW-stMDqEjjXNogzxFJrV0lBqZkBoesmaJ3roTmCR39a6POO7hqkKhdx-mQxNnDi7tQE4LTe8bpmTlq3m4Q0cMjJSClurbpdzlL8GskG3Ml2JMhwGpmnZRZnlmv5hKD5-ypmd5VUG741kQlW5WlYgOHHwNi5s1Z-sTFOZkaar3bt-KjqWp9xL2IhIaO-1wBC35YDJH89zYrD0h5FYvZff2ZUnIMPGrs50Gf2kdBk4YyZCTawdQzQNMSoFLbzJ3N5bYtsn0x6FvvVAlhVu1hL4d619NVzHBbb7PYQ",
       "e": "AQAB",
       "kid": "nZRcUpB5mS7s3VSZmsmD6NlLL5tKtbeOegVkgNKHGuw",
-      "use": "sig",
-      "alg": "PS384"
+      "use": "sig"
     }
   ]
 }
