@@ -11,5 +11,6 @@
     "code"
   ],
   "token_endpoint_auth_method": "private_key_jwt",
+  "token_endpoint_auth_signing_alg": "ES256",
   "jwks_uri": "https://piyush-85.github.io/my-pages-site/jwks.json"
 }
